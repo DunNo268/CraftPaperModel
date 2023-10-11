@@ -1,0 +1,37 @@
+.box-book-tour:hover {
+    background: #00608c; text-decoration: none;
+    border-color: #0094da;
+}
+.box-book-tour {
+    background: #0094da;
+    color: #FFF;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-weight: bold;
+    border-bottom: 3px solid #00608c;
+}
+.price { 
+    color: red;
+}
+.ima {
+    max-width: 450px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
+hr.style3 {
+    border-top: 1px dashed #8c8b8b;
+}
+.box {
+  display: flex;
+  justify-content: space-around;
+}
+#add-cartt a:hover{
+    background: #00608c; text-decoration: none;
+    border-color: #0094da;}   
+#add-cartt a{
+    background: white;
+    color: #FFF;}
+.product-list:last-child .product-item{
+    flex-grow:0;
+    flex-basis:32.6%;}

@@ -1,0 +1,29 @@
+.imgpoint{
+    display: inline-block;
+    max-width: 340px;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+}
+.news{
+    width: 33%;
+    float: left;   
+    text-align: left;
+    display: block;
+}
+.left{
+    margin-right: 20px;
+}
+.mid{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.right{
+    margin-left: 20px;
+}
+.anh{
+    max-width: 800px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
